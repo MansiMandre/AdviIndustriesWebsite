@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AdviIndustriesWebsite/static/css/main.11fa3c3e.css",
-    "main.js": "/AdviIndustriesWebsite/static/js/main.3ea1ec7a.js",
+    "main.css": "/AdviIndustriesWebsite/static/css/main.4c4a23fd.css",
+    "main.js": "/AdviIndustriesWebsite/static/js/main.1913fecd.js",
     "static/js/453.7ca8feed.chunk.js": "/AdviIndustriesWebsite/static/js/453.7ca8feed.chunk.js",
     "index.html": "/AdviIndustriesWebsite/index.html",
-    "main.11fa3c3e.css.map": "/AdviIndustriesWebsite/static/css/main.11fa3c3e.css.map",
-    "main.3ea1ec7a.js.map": "/AdviIndustriesWebsite/static/js/main.3ea1ec7a.js.map",
+    "main.4c4a23fd.css.map": "/AdviIndustriesWebsite/static/css/main.4c4a23fd.css.map",
+    "main.1913fecd.js.map": "/AdviIndustriesWebsite/static/js/main.1913fecd.js.map",
     "453.7ca8feed.chunk.js.map": "/AdviIndustriesWebsite/static/js/453.7ca8feed.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11fa3c3e.css",
-    "static/js/main.3ea1ec7a.js"
+    "static/css/main.4c4a23fd.css",
+    "static/js/main.1913fecd.js"
   ]
 }
